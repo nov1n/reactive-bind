@@ -8,9 +8,5 @@ Package.describe({
 
 Package.onUse(function (api) {
     api.versionsFrom('1.1.0.2');
-    api.use([
-        'underscore',
-        'tracker'
-    ], 'client');
     api.addFiles('reactive-bind.js', 'client');
 });
