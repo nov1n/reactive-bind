@@ -2,6 +2,8 @@
 
 Two way data binding for HTML input elements. No setup required.
 
+Click [here](http://reactive-bind-demo.meteor.com) for a demo.
+
 ## Installation
 ```
 meteor add nov1n:reactive-bind
