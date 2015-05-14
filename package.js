@@ -2,7 +2,7 @@ Package.describe({
     name: 'nov1n:reactive-bind',
     version: '0.0.1',
     summary: 'Two way data binding for input elements.',
-    git: 'https://github.com/nov1n/reactive-input',
+    git: 'https://github.com/nov1n/reactive-bind',
     documentation: 'README.md'
 });
 
