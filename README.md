@@ -56,7 +56,7 @@ The value stored in the Session variable is the text as tring.
 <input type='radio' name='color' value='Green' data-binding='exampleVariable6'/> Green
 ```
 
-The value stored in the Session variable is the value as String.
+The value stored in the Session variable is the input value as String.
 
 ### Date
 ```HTML
@@ -72,7 +72,7 @@ The value stored in the Session variable is a Date object.
 <input type='checkbox' name='vehicle' value='Plane' data-binding='exampleVariable8'/> Plane
 ```
 
-The value stored in the Session variable is the value as String. When more than one checkbox
+The value stored in the Session variable is the input value as String. When more than one checkbox
 is checked, it becomes an array of Strings.
 
 ### Range
